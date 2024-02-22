@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a3 as s}from"./chunks/framework.DW50ofaL.js";const x=JSON.parse('{"title":"Excel 精华试听课","description":"","frontmatter":{},"headers":[],"relativePath":"excel.md","filePath":"excel.md"}'),o={name:"excel.md"},c=s("",4),l=[c];function n(i,r,d,h,_,p){return t(),a("div",null,l)}const m=e(o,[["render",n]]);export{x as __pageData,m as default};

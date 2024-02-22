@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a3 as o}from"./chunks/framework.DW50ofaL.js";const m=JSON.parse('{"title":"安迪老师","description":"","frontmatter":{},"headers":[],"relativePath":"about.md","filePath":"about.md"}'),r={name:"about.md"},i=o("",4),c=[i];function l(s,n,_,d,h,f){return t(),e("div",null,c)}const p=a(r,[["render",l]]);export{m as __pageData,p as default};
