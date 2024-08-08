@@ -23,3 +23,7 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
+---
+<div>
+  <a href="https://example.com">https://example.com 备案信息</a>
+</div>

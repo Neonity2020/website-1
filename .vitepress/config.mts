@@ -19,10 +19,24 @@ export default defineConfig({
         items: [
           { text: 'Excel 精品课', link: '/excel' },
           { text: 'PowerPoint 精品课', link: '/powerpoint' },
+          { text: 'Word 精品课', link: '/word' },
+        ]
+      },
+      {
+        text: 'About',
+        items: [
+          { text: '关于安迪老师', link: '/about' },
+        ]
+      },
+    ],
+/*        
+        text: 'About',
+        items: [
           { text: '关于安迪老师', link: '/about' }
         ]
       }
     ],
+*/
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/orange-office' }
