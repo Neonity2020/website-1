@@ -1,1 +1,0 @@
-import{_ as l,c as o,o as t,a3 as i}from"./chunks/framework.DNTguQ2q.js";const _=JSON.parse('{"title":"Excel 精华试听课","description":"","frontmatter":{},"headers":[],"relativePath":"excel.md","filePath":"excel.md"}'),e={name:"excel.md"},r=i("",39),u=[r];function a(p,s,n,q,c,g){return t(),o("div",null,u)}const x=l(e,[["render",a]]);export{_ as __pageData,x as default};
