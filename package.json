@@ -7,7 +7,7 @@
     "build":"vitepress build",
     "dev": "vitepress dev",
     "docs:dev": "vitepress dev",
-    "docs:build": "vitepress build",
-    "docs:preview": "vitepress preview"
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
   }
 }
