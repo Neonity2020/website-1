@@ -6,6 +6,10 @@ hero:
   name: "orange-office.online"
   text: "甜橙办公"
   tagline: A website for office software learning <br>Office 办公软件精品课
+  image:
+    src: /logo.png
+    ait: orange-office.online
+    width: 200px
   actions:
     - theme: brand
       text: Excel 精品课
@@ -21,6 +25,4 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Word
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
----
-
 ---

@@ -1,6 +1,7 @@
 # 安迪老师
 
 ## 我的作品
+
 1. 《巧学巧用 Excel》
 2. 《Excel 图表》
 3. 《Excel 公式》
@@ -99,9 +100,11 @@ PPT定制设计师
 
   2020年共独立开发两套EXCEL基础课程，一套函数课程，一套图表课程，一套WORD课程。另外写作三本教辅书，已在北京大学出版社出版发行。独立开发制作一套EXCEL工作不加班系列课程在网易云课堂在售。
 
-![img](file:////Users/andi/Library/Containers/com.kingsoft.wpsoffice.mac/Data/tmp/wps-andi/ksohtml//wps1.png) ![img](file:////Users/andi/Library/Containers/com.kingsoft.wpsoffice.mac/Data/tmp/wps-andi/ksohtml//wps2.png)
+<img src="/wps1.png" width=200px />
 
-# ![img](file:////Users/andi/Library/Containers/com.kingsoft.wpsoffice.mac/Data/tmp/wps-andi/ksohtml//wps3.png) 
+<img src="/wps2.png" width=200px />
+
+<img src="/wps3.png" width=200px />
 
 ## 推荐语
 
