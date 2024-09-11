@@ -1,0 +1,1 @@
+import{_ as l,c as o,o as t,a4 as e}from"./chunks/framework.RieOuEC5.js";const _=JSON.parse('{"title":"Excel 精华试听课","description":"","frontmatter":{},"headers":[],"relativePath":"excel.md","filePath":"excel.md"}'),p={name:"excel.md"},u=e("",39),i=[u];function r(a,s,n,q,c,g){return t(),o("div",null,i)}const x=l(p,[["render",r]]);export{_ as __pageData,x as default};

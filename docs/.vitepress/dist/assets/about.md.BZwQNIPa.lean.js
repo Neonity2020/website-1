@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as p,a4 as i}from"./chunks/framework.RieOuEC5.js";const x=JSON.parse('{"title":"安迪老师","description":"","frontmatter":{},"headers":[],"relativePath":"about.md","filePath":"about.md"}'),t={name:"about.md"},o=i("",55),l=[o];function r(s,c,n,h,f,d){return p(),e("div",null,l)}const E=a(t,[["render",r]]);export{x as __pageData,E as default};
