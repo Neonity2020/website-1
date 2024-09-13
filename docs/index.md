@@ -10,6 +10,7 @@ hero:
     src: /logo.png
     ait: orange-office.online
     width: 200px
+    height: 200px
   actions:
     - theme: brand
       text: Excel 精品课
